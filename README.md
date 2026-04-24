@@ -24,15 +24,15 @@
 ## 📸 التوثيق المرئي للمخرجات (System Screenshots)
 
 ### 01. الواجهة الرئيسية (Entry Point)
-![Main Screen](screenshots/home.png)
+![Main Screen](home.png)
 > **Technical Note:** تم استخدام `ListView.builder` لتحقيق أداء عالٍ (High Performance) عند عرض الوجبات.
 
 ### 02. تفاصيل البيانات (Core Details)
-![Details Screen](screenshots/details.png)
+![Details Screen](details.png)
 > **Technical Note:** واجهة تفصيلية تستقبل البيانات الممررة وتعرضها بأسلوب هندسي متناسق.
 
 ### 03. استجابة النظام (Action Confirmation)
-![Success Action](screenshots/success.png)
+![Success Action](success.png)
 > **Technical Note:** توضيح لآلية عمل الـ `SnackBar` البرمجية التي تظهر كرسالة تأكيد فورية بعد العودة للواجهة الأم.
 
 ---
